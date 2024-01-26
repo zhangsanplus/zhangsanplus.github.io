@@ -1,0 +1,1 @@
+System.register(["./vue-legacy-2ef9616a.js"],(function(t,e){"use strict";var n,r,u,a;return{setters:[function(t){n=t.d,r=t.at,u=t.ao,a=t.I}],execute:function(){t("default",n({name:"Redirect",setup:function(){var t=r(),e=u();return a((function(){var n=t.params.path;e.replace({path:n})})),function(){return null}}}))}}}));

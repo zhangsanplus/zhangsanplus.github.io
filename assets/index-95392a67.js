@@ -1,0 +1,1 @@
+import{d as a,at as s,ao as n,I as r}from"./vue-07240d82.js";const p=a({name:"Redirect",setup(){const e=s(),t=n();return r(()=>{const o=e.params.path;t.replace({path:o})}),()=>null}});export{p as default};

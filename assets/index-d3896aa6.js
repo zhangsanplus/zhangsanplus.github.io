@@ -1,0 +1,1 @@
+import{d as o,at as a,ab as s,o as n,U as c,T as r,u as _,b as p}from"./vue-07240d82.js";const u=p("p",null,"这是一个嵌套菜单页面",-1),f=o({__name:"index",setup(d){const e=a();return(l,i)=>{const t=s("x-card");return n(),c(t,{title:_(e).path},{default:r(()=>[u]),_:1},8,["title"])}}});export{f as default};
