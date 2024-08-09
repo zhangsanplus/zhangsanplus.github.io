@@ -1,0 +1,1 @@
+import{d as a,G as s,av as n,aq as r}from"./vue-CpysqPi9.js";const p=a({name:"Redirect",setup(){const e=n(),t=r();return s(()=>{const o=e.params.path;t.replace({path:o})}),()=>null}});export{p as default};

@@ -1,0 +1,1 @@
+import{d as a,av as o,a8 as s,o as n,S as c,R as r,u as _,b as p}from"./vue-CpysqPi9.js";const u=p("p",null,"这是由接口返回的动态路由页面，只有 `admin` 才展示",-1),f=a({__name:"test",setup(d){const e=o();return(l,i)=>{const t=s("x-card");return n(),c(t,{title:_(e).path},{default:r(()=>[u]),_:1},8,["title"])}}});export{f as default};
