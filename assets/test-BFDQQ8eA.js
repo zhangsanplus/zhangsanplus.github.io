@@ -1,0 +1,1 @@
+import{_ as o}from"./index.vue_vue_type_style_index_0_lang-Bc25tf2j.js";import{v as a,ai as n,F as s,y as r,u as _}from"./vue-CuyTf28J.js";const f=a({__name:"test",setup(c){const t=n();return(p,u)=>{const e=o;return r(),s(e,{title:_(t).path},null,8,["title"])}}});export{f as default};
