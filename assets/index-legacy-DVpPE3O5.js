@@ -1,0 +1,1 @@
+System.register(["./vue-legacy-CYv_RyeN.js"],(function(e,t){"use strict";var n,r,u,a;return{setters:[function(e){n=e.v,r=e.Y,u=e.ai,a=e.af}],execute:function(){e("default",n({name:"Redirect",setup:function(){var e=u(),t=a();return r((function(){var n=e.params.path;t.replace({path:n})})),function(){return null}}}))}}}));

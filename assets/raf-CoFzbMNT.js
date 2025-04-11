@@ -1,0 +1,1 @@
+import{b8 as s,b9 as r,ba as a,a5 as o,$ as t}from"./index-BEcxWQo9.js";import{i as n}from"./isEqual-DDMOfOHw.js";function b(i,e){return s(r(i,e,a),i+"")}function A(i){return o(i)&&n(i)}const u=i=>t?window.requestAnimationFrame(i):setTimeout(i,16),w=i=>t?window.cancelAnimationFrame(i):clearTimeout(i);export{b,w as c,A as i,u as r};

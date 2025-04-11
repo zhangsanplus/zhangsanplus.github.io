@@ -1,0 +1,1 @@
+import{_ as o}from"./index.vue_vue_type_style_index_0_lang-BwiYcMwn.js";import{v as s,ai as n,F as r,y as _,G as p,B as u,u as i}from"./vue-Bp-VKo72.js";const d=s({__name:"index",setup(c){const e=n();return(m,t)=>{const a=o;return _(),r(a,{title:i(e).path},{default:p(()=>t[0]||(t[0]=[u("p",null,"这是一个嵌套菜单页面",-1)])),_:1},8,["title"])}}});export{d as default};
